@@ -60,6 +60,7 @@
 - **CI/CD 및 배포 환경**
   - Jenkins 기반 CI/CD 파이프라인 구축 → 테스트 및 자동 배포 자동화
   - Kubernetes 환경에서 서비스 배포 → 학습용 클러스터에서 Blue/Green 배포 적용
+👉 [GitHub Repo](https://github.com/beyond-sw-camp/be12-fin-404Found-Tech-Up-BE)
 ---
 ### 🔹 EduLink | 부트캠프 학습 관리 시스템 (미니 프로젝트)
 
